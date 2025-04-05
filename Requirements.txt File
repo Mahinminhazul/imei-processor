@@ -1,0 +1,8 @@
+pandas>=1.3.0
+tqdm>=4.62.0
+
+# test_installation.py
+import pandas as pd
+import tqdm
+import os
+print("All dependencies successfully imported!")
